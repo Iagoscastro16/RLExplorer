@@ -1,20 +1,20 @@
-### 🚀  RLExplorer
+### RLExplorer
 
 Aplicativo mobile para explorar o catálogo completo de itens do Rocket League, Desenvolvido em React native e Expo go
 
-### 🚀 Funcionalidade 
+### Funcionalidade 
 
-- 🔍 Busca de itens por nome em tempo real
+- Busca de itens por nome em tempo real
 
-- 🗂️ Filtro de categoria(Carros, decais, rodas, boosts, explosões, Toppers e mais)
+- Filtro de categoria(Carros, decais, rodas, boosts, explosões, Toppers e mais)
 
-- 📄 Paginação com carregamento progressivo
+- Paginação com carregamento progressivo
 
-- 📋 Tela de detalhes com raridades,tipo, pintura e atributo do item
+- Tela de detalhes com raridades,tipo, pintura e atributo do item
 
-- 🎨 Indicação visual de raridade com cores e badges
+- Indicação visual de raridade com cores e badges
 
-### 🛠️ Tecnologias
+### Tecnologias
 
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.dev/) ~54.0.0
@@ -22,7 +22,7 @@ Aplicativo mobile para explorar o catálogo completo de itens do Rocket League, 
 - [@rocketleagueapi/items](https://www.npmjs.com/package/@rocketleagueapi/items) — base de dados dos itens
 - [Axios](https://axios-http.com/) — cliente HTTP
 
-### ⚙️ Como rodar localmente
+### Como rodar localmente
 
 1. Pré-requisitos
 
@@ -79,6 +79,6 @@ RLExplorer/
 └── package.json
 ```
 
-### 👨‍💻 Autor
+### Autor
  
 Desenvolvido por **Iago Castro** ©
